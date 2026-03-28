@@ -1,0 +1,6 @@
+```txt
+ultralytics
+roboflow
+opencv-python
+matplotlib
+numpy
