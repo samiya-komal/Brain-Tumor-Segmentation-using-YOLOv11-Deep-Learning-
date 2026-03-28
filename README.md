@@ -49,9 +49,10 @@ This project focuses on detecting and segmenting brain tumors from MRI images us
 ## 🔍 Sample Prediction
 
 ### 🔹 
+![Confusion Matrix](confusion-matrix.PNG)
 ![Training Result](training-result.PNG)
 ![Final Result](final-result.PNG)
-![Confusion Matrix](confusion-matrix.PNG)
+
 
 
 
