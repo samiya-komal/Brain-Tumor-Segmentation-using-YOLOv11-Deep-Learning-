@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Segmentation using YOLOv11
+<img width="1034" height="434" alt="image" src="https://github.com/user-attachments/assets/a899ab07-c872-4e69-bef6-425c8626bf7d" /># 🧠 Brain Tumor Segmentation using YOLOv11
 
 ## 📌 Project Overview
 This project focuses on detecting and segmenting brain tumors from MRI images using the YOLOv11 segmentation model. The goal is to build an efficient deep learning model that can assist in medical image analysis.
@@ -49,7 +49,13 @@ This project focuses on detecting and segmenting brain tumors from MRI images us
 ---
 
 ## 🔍 Sample Prediction
-(Add your output images here)
+
+### 🔹 
+![Training Result](training-result.png)
+![Final Result](final-result.png)
+![Confusion Matrix](confusion-matrix.png)
+
+
 
 ---
 
